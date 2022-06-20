@@ -1,6 +1,6 @@
 # Calcular valor de H em Linguagem C
 
-Usando Linguagem C para calcular o valor de H usando While e For
+Usando Linguagem C para calcular o valor de H usando while e for
 
 
 ## Questão:
